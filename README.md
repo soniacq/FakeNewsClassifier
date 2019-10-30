@@ -1,6 +1,6 @@
 # FakeNewsClassifier
 A Topic-Agnostic Approach for Identifying Fake News Pages <br/>
-The paper is available at [here](https://dl.acm.org/citation.cfm?id=3308560.3316739). It is also available in arxiv [here] (https://arxiv.org/abs/1905.00957)
+The paper is available at [here](https://dl.acm.org/citation.cfm?id=3308560.3316739). It is also available in arxiv [here](https://arxiv.org/abs/1905.00957)
 
 If you find this code useful in your research, please consider citing:
    ```@inproceedings{Castelo:2019:TAI:3308560.3316739,
